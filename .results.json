@@ -5,9 +5,9 @@
     "passes": 3,
     "pending": 0,
     "failures": 0,
-    "start": "2022-04-23T07:35:53.465Z",
-    "end": "2022-04-23T07:35:53.680Z",
-    "duration": 215
+    "start": "2022-04-23T08:16:05.538Z",
+    "end": "2022-04-23T08:16:05.754Z",
+    "duration": 216
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "logs each number when counting down, starting from the number provided",
       "fullTitle": "index.js countDown() logs each number when counting down, starting from the number provided",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -52,7 +52,7 @@
     {
       "title": "logs each number when counting down, starting from the number provided",
       "fullTitle": "index.js countDown() logs each number when counting down, starting from the number provided",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
