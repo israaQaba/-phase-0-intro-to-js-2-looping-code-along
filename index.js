@@ -2,6 +2,7 @@
 const names = ["Guadalupe", "Ollie", "Aki"];
 const event = 'surprise';
 
+
 function writeCards(names, event) {
     let newArr = [];
     for (let i =0; i < names.length; i++) {
@@ -9,11 +10,16 @@ function writeCards(names, event) {
     }
     return newArr;
 }
+console.log(writeCards(names, event));
+
+
+
 
 function countDown(positiveNumber){
     while(positiveNumber >= 0) {
         console.log(positiveNumber);
         positiveNumber--;
     }
-
 }
+console.log(countDown(10))
+
